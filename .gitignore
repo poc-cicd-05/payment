@@ -1,0 +1,18 @@
+# Temp folder
+/tmp
+
+# Settings
+*.settings
+
+# Credentials
+credentials.yml
+
+# Logs
+/logs
+*.log
+
+### Java build files
+/target
+
+*.classpath
+*.project
